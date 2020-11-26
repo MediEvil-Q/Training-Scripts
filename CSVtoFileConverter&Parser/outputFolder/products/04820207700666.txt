@@ -1,0 +1,5 @@
+Name:		Lavr Beef Semi-smoked Sausage from Organic Materials 250g
+EAN:		04820207700666
+OldPrice:	272.39
+NewPrice:	69.90
+InStock:	true

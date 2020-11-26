@@ -1,0 +1,5 @@
+Name:		NESCAFÉ® Gold instant coffee 120g
+EAN:		07613035524811
+OldPrice:	580.04
+NewPrice:	87.60
+InStock:	true

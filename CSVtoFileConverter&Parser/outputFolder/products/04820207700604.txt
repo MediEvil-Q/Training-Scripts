@@ -1,0 +1,5 @@
+Name:		Lavr Yeherski Sausages Semi-smoked from Organic Materials 250g
+EAN:		04820207700604
+OldPrice:	762.44
+NewPrice:	72.90
+InStock:	true

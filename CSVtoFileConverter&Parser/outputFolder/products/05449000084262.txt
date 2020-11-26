@@ -1,0 +1,5 @@
+Name:		Bon Aqua mineral non-carbonated water 500ml
+EAN:		05449000084262
+OldPrice:	677.65
+NewPrice:	91.80
+InStock:	true

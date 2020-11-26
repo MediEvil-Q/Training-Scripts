@@ -1,0 +1,5 @@
+Name:		Kimbo Espresso Napoletano whole beans coffee 1kg
+EAN:		08002200101688
+OldPrice:	336.56
+NewPrice:	399.90
+InStock:	true

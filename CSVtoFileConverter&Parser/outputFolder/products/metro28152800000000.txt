@@ -1,0 +1,5 @@
+Name:		Myasnyashki Sausage boiled first grade
+EAN:		metro28152800000000
+OldPrice:	14.71
+NewPrice:	123.90
+InStock:	true

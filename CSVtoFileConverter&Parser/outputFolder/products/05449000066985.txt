@@ -1,0 +1,5 @@
+Name:		Still water Bon Aqua plastic bottle 1l
+EAN:		05449000066985
+OldPrice:	299.91
+NewPrice:	108.90
+InStock:	true

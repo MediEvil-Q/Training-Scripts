@@ -1,0 +1,5 @@
+Name:		Buvette juice drink with aloe vera apricot and figs 0,5l
+EAN:		04820115401938
+OldPrice:	213.44
+NewPrice:	10.90
+InStock:	true

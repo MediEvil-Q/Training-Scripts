@@ -1,0 +1,5 @@
+Name:		San Benedetto mineral non-carbonated water 500ml
+EAN:		metro00000080007951
+OldPrice:	651.45
+NewPrice:	18.10
+InStock:	true

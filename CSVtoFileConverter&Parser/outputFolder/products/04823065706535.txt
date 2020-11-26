@@ -1,0 +1,5 @@
+Name:		Cottage cheese President Cottage cheese tradition 9% 250g
+EAN:		04823065706535
+OldPrice:	46.19
+NewPrice:	47.70
+InStock:	true

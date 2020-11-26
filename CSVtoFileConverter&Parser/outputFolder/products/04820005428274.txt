@@ -1,0 +1,5 @@
+Name:		Zlagoda cottage cheese 5% 300g
+EAN:		04820005428274
+OldPrice:	880.41
+NewPrice:	42.90
+InStock:	true

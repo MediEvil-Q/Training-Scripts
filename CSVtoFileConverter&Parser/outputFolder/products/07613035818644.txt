@@ -1,0 +1,5 @@
+Name:		NESCAFÉ® Classic instant coffee 350g
+EAN:		07613035818644
+OldPrice:	804.35
+NewPrice:	149.90
+InStock:	true

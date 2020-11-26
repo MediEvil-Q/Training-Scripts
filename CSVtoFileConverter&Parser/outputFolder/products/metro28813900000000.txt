@@ -1,0 +1,5 @@
+Name:		SVITOCH® Lviv Truffle Coffee taste sharing sweets
+EAN:		metro28813900000000
+OldPrice:	433.56
+NewPrice:	134.90
+InStock:	true

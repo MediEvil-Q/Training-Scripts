@@ -1,0 +1,5 @@
+Name:		Still mineral water San Benedetto 2l
+EAN:		08001620002278
+OldPrice:	373.15
+NewPrice:	38.60
+InStock:	true

@@ -1,0 +1,5 @@
+Name:		Zlahoda Dytyachyy Curd dessert Mango-strawberry 13.5% 90g
+EAN:		04820202531876
+OldPrice:	796.93
+NewPrice:	13.90
+InStock:	true

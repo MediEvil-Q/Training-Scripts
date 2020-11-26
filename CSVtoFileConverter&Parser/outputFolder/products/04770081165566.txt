@@ -1,0 +1,5 @@
+Name:		Biovela Yuvileyna Sausage Raw Premium 200g
+EAN:		04770081165566
+OldPrice:	440.68
+NewPrice:	141.90
+InStock:	true

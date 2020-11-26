@@ -1,0 +1,5 @@
+Name:		Alan Nevskyi Sausages Boiled 1st Grade
+EAN:		metro28298300000000
+OldPrice:	600.7
+NewPrice:	184.90
+InStock:	true

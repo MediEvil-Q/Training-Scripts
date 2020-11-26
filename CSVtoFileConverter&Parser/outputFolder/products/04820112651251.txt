@@ -1,0 +1,5 @@
+Name:		Globino Finska semi-smoked pork sausage 460g
+EAN:		04820112651251
+OldPrice:	399.97
+NewPrice:	49.90
+InStock:	true

@@ -1,0 +1,5 @@
+Name:		Elpozo Chorizo Fort extra Pikant raw-cured mold sausage 200g
+EAN:		08410843116585
+OldPrice:	590.15
+NewPrice:	82.50
+InStock:	true

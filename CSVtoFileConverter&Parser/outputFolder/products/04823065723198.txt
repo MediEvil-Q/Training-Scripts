@@ -1,0 +1,5 @@
+Name:		Metro Chef Cottage cheese 5% 900g
+EAN:		04823065723198
+OldPrice:	178.01
+NewPrice:	106.90
+InStock:	true

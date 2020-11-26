@@ -1,0 +1,5 @@
+Name:		Brain food Book
+EAN:		09786177682249
+OldPrice:	935.56
+NewPrice:	139.90
+InStock:	true

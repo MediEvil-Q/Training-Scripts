@@ -1,0 +1,5 @@
+Name:		NESCAFÉ® Classic instant coffee 60g
+EAN:		07613035585881
+OldPrice:	283.51
+NewPrice:	29.90
+InStock:	true

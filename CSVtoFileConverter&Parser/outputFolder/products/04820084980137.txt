@@ -1,0 +1,5 @@
+Name:		Harmash grand-fillet raw cured sausage 320g
+EAN:		04820084980137
+OldPrice:	819.93
+NewPrice:	109.90
+InStock:	true

@@ -1,0 +1,5 @@
+Name:		Organic milk Organic cottage cheese 9% 300g
+EAN:		04820178810081
+OldPrice:	60.52
+NewPrice:	52.90
+InStock:	true

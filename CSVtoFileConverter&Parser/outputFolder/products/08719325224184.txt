@@ -1,0 +1,5 @@
+Name:		Ambassador Blue Label instant coffee 400g
+EAN:		08719325224184
+OldPrice:	192.65
+NewPrice:	168.90
+InStock:	true

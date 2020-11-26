@@ -1,0 +1,5 @@
+Name:		Tchibo Family ground coffee 250g
+EAN:		04046234928426
+OldPrice:	608.44
+NewPrice:	71.90
+InStock:	true

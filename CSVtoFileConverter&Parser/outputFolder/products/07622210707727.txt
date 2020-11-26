@@ -1,0 +1,5 @@
+Name:		Tuc with sausages salt cracker 100g
+EAN:		07622210707727
+OldPrice:	468.36
+NewPrice:	14.90
+InStock:	true

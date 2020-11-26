@@ -1,0 +1,5 @@
+Name:		Sheridan's Liquor 0,5l
+EAN:		05011013500703
+OldPrice:	55.87
+NewPrice:	409.90
+InStock:	true

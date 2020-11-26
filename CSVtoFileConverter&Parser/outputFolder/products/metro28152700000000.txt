@@ -1,0 +1,5 @@
+Name:		Doctorskaya Sausage first grade
+EAN:		metro28152700000000
+OldPrice:	580.6
+NewPrice:	124.90
+InStock:	true

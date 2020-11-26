@@ -1,0 +1,5 @@
+Name:		Firmova Sausage Boiled
+EAN:		metro28292400000000
+OldPrice:	858.72
+NewPrice:	180.90
+InStock:	true

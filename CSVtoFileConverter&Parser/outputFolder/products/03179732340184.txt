@@ -1,0 +1,5 @@
+Name:		Vittel non-carbonated water 330ml
+EAN:		03179732340184
+OldPrice:	707.37
+NewPrice:	26.90
+InStock:	true

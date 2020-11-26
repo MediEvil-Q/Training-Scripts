@@ -1,0 +1,5 @@
+Name:		President tradition cottage cheese 5% 1kg
+EAN:		04823065721477
+OldPrice:	778.88
+NewPrice:	130.90
+InStock:	true

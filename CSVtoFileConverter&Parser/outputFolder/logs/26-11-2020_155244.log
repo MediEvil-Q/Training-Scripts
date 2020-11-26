@@ -1,0 +1,1695 @@
+~~~ BEGIN ~~~
+
+Date/Time:26-11-2020_15:52:44
+
+Checking latest file in /home/andreysokolov/Rodion_Task_4/inputFolder
+Done! Filename: /home/andreysokolov/Rodion_Task_4/inputFolder/inputFile.csv
+Found 120 items.
+Fetching new prices...
+
+~~~~~
+
+Getting EAN 04823065706535...
+
+Fetched:
+Name:		Cottage cheese President Cottage cheese tradition 9% 250g
+EAN:		04823065706535
+OldPrice:	46.19
+NewPrice:	47.70
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04823065706535.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 03068320080000...
+
+Fetched:
+Name:		Still natural mineral water Evian 1000ml
+EAN:		03068320080000
+OldPrice:	907.88
+NewPrice:	49.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/03068320080000.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820044753795...
+
+Fetched:
+Name:		Metro Chef Cottage Cheese 10% 5kg
+EAN:		04820044753795
+OldPrice:	403.11
+NewPrice:	399.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820044753795.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 07613035524811...
+
+Fetched:
+Name:		NESCAFÉ® Gold instant coffee 120g
+EAN:		07613035524811
+OldPrice:	580.04
+NewPrice:	87.60
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/07613035524811.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820115400467...
+
+Fetched:
+Name:		Buvette Vital non-carbonated water 1500ml
+EAN:		04820115400467
+OldPrice:	910.94
+NewPrice:	57.50
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820115400467.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 03068320063003...
+
+Fetched:
+Name:		Still natural mineral water Evian 0,33l
+EAN:		03068320063003
+OldPrice:	687.27
+NewPrice:	24.25
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/03068320063003.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 08711000324141...
+
+Fetched:
+Name:		L`or Espresso Forza in grains coffee 500g
+EAN:		08711000324141
+OldPrice:	293.16
+NewPrice:	229.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/08711000324141.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04823065715261...
+
+Fetched:
+Name:		President Cottage Cheese 9% 1kg
+EAN:		04823065715261
+OldPrice:	64.43
+NewPrice:	137.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04823065715261.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 05011013500703...
+
+Fetched:
+Name:		Sheridan's Liquor 0,5l
+EAN:		05011013500703
+OldPrice:	55.87
+NewPrice:	409.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/05011013500703.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820207700604...
+
+Fetched:
+Name:		Lavr Yeherski Sausages Semi-smoked from Organic Materials 250g
+EAN:		04820207700604
+OldPrice:	762.44
+NewPrice:	72.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820207700604.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04823079002159...
+
+Fetched:
+Name:		Rancho raw smoked poultry sausage 340g
+EAN:		04823079002159
+OldPrice:	262.59
+NewPrice:	74.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04823079002159.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820115401976...
+
+Fetched:
+Name:		Buvette juice drink with kiwi and cucumber 0,5l
+EAN:		04820115401976
+OldPrice:	805.12
+NewPrice:	10.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820115401976.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04823065704708...
+
+Fetched:
+Name:		Cottage cheese President airy 0% 100g
+EAN:		04823065704708
+OldPrice:	504.52
+NewPrice:	10.30
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04823065704708.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 08410843003984...
+
+Fetched:
+Name:		Elpozo Fuet Spanish extra raw-cured sausage 170g
+EAN:		08410843003984
+OldPrice:	151.94
+NewPrice:	99.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/08410843003984.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820198090043...
+
+Fetched:
+Name:		Premialle Grainy Cottage Cheese 7% 150g
+EAN:		04820198090043
+OldPrice:	777.31
+NewPrice:	20.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820198090043.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820112651251...
+
+Fetched:
+Name:		Globino Finska semi-smoked pork sausage 460g
+EAN:		04820112651251
+OldPrice:	399.97
+NewPrice:	49.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820112651251.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04046234928426...
+
+Fetched:
+Name:		Tchibo Family ground coffee 250g
+EAN:		04046234928426
+OldPrice:	608.44
+NewPrice:	71.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04046234928426.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 08410843079613...
+
+Fetched:
+Name:		Elpozo Fuet Raw-Cured Sausage 170g
+EAN:		08410843079613
+OldPrice:	840.67
+NewPrice:	99.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/08410843079613.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820000431569...
+
+Fetched:
+Name:		Aqua Life Still water 5l
+EAN:		04820000431569
+OldPrice:	841.71
+NewPrice:	24.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820000431569.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 08000815004592...
+
+Fetched:
+Name:		Acqua Panna Non-carbonated Mineral Water 250ml
+EAN:		08000815004592
+OldPrice:	767.26
+NewPrice:	39.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/08000815004592.txt... 
+Done!
+
+~~~~~
+
+Getting EAN metro28151500000000...
+
+Fetched:
+Name:		Rancho Doctorskaya Sausage first grade
+EAN:		metro28151500000000
+OldPrice:	496.79
+NewPrice:	86.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/metro28151500000000.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 03179732340184...
+
+Fetched:
+Name:		Vittel non-carbonated water 330ml
+EAN:		03179732340184
+OldPrice:	707.37
+NewPrice:	26.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/03179732340184.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 08410843116578...
+
+Fetched:
+Name:		Elpozo Chorizo Pikant raw-cured mold sausage 200g
+EAN:		08410843116578
+OldPrice:	427.31
+NewPrice:	82.50
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/08410843116578.txt... 
+Done!
+
+~~~~~
+
+Getting EAN metro28298300000000...
+
+Fetched:
+Name:		Alan Nevskyi Sausages Boiled 1st Grade
+EAN:		metro28298300000000
+OldPrice:	600.7
+NewPrice:	184.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/metro28298300000000.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 08714599103821...
+
+Fetched:
+Name:		Jacobs Barista Editions Classic ground coffee 225g
+EAN:		08714599103821
+OldPrice:	924.52
+NewPrice:	79.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/08714599103821.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 06411300158102...
+
+Fetched:
+Name:		Paulig Classic Natural Ground Medium Roasted Coffee 250g
+EAN:		06411300158102
+OldPrice:	631.33
+NewPrice:	89.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/06411300158102.txt... 
+Done!
+
+~~~~~
+
+Getting EAN metro28292400000000...
+
+Fetched:
+Name:		Firmova Sausage Boiled
+EAN:		metro28292400000000
+OldPrice:	858.72
+NewPrice:	180.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/metro28292400000000.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 05997338170718...
+
+Fetched:
+Name:		Tchibo Family in grains coffee 1000g
+EAN:		05997338170718
+OldPrice:	380.58
+NewPrice:	229.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/05997338170718.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04770081165566...
+
+Fetched:
+Name:		Biovela Yuvileyna Sausage Raw Premium 200g
+EAN:		04770081165566
+OldPrice:	440.68
+NewPrice:	141.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04770081165566.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820115401952...
+
+Fetched:
+Name:		Buvette juice drink with the grapefruit and rosemary 0,5l
+EAN:		04820115401952
+OldPrice:	274.1
+NewPrice:	10.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820115401952.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820005428274...
+
+Fetched:
+Name:		Zlagoda cottage cheese 5% 300g
+EAN:		04820005428274
+OldPrice:	880.41
+NewPrice:	42.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820005428274.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 08410843116585...
+
+Fetched:
+Name:		Elpozo Chorizo Fort extra Pikant raw-cured mold sausage 200g
+EAN:		08410843116585
+OldPrice:	590.15
+NewPrice:	82.50
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/08410843116585.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820198090036...
+
+Fetched:
+Name:		Premialle Apricot-Honey Cottage Cheese 150g
+EAN:		04820198090036
+OldPrice:	574.35
+NewPrice:	18.20
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820198090036.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 03068320085005...
+
+Fetched:
+Name:		Still natural mineral water Evian 1,5l
+EAN:		03068320085005
+OldPrice:	678.45
+NewPrice:	52.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/03068320085005.txt... 
+Done!
+
+~~~~~
+
+Getting EAN metro28152700000000...
+
+Fetched:
+Name:		Doctorskaya Sausage first grade
+EAN:		metro28152700000000
+OldPrice:	580.6
+NewPrice:	124.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/metro28152700000000.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820178810074...
+
+Fetched:
+Name:		Organic milk Organic cottage cheese 0.2% 300g
+EAN:		04820178810074
+OldPrice:	908.19
+NewPrice:	49.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820178810074.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 03068320055008...
+
+Fetched:
+Name:		Evian Still natural mineral water 0,5l
+EAN:		03068320055008
+OldPrice:	715.94
+NewPrice:	30.50
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/03068320055008.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820115401914...
+
+Fetched:
+Name:		Buvette juice drink with black currant and mint 0,5l
+EAN:		04820115401914
+OldPrice:	781.36
+NewPrice:	11.20
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820115401914.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 08001620003701...
+
+Fetched:
+Name:		San Benedetto Mineral water non-carbonated 500ml
+EAN:		08001620003701
+OldPrice:	769.06
+NewPrice:	19.20
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/08001620003701.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04823061322371...
+
+Fetched:
+Name:		Agusha Cottage cheese raspberry-black currant-dog rose 3,9% 100g
+EAN:		04823061322371
+OldPrice:	934.66
+NewPrice:	13.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04823061322371.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820198090685...
+
+Fetched:
+Name:		Premialle Grainy Cottage Cheese 7% 300g
+EAN:		04820198090685
+OldPrice:	795.11
+NewPrice:	40.20
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820198090685.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820112651206...
+
+Fetched:
+Name:		Globino Myslyvsʹka boiled-smoked pork sausage 460g
+EAN:		04820112651206
+OldPrice:	651.92
+NewPrice:	53.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820112651206.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820084980120...
+
+Fetched:
+Name:		Harmash Moscowska raw smoked sausage 320g
+EAN:		04820084980120
+OldPrice:	605.1
+NewPrice:	80.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820084980120.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820178810647...
+
+Fetched:
+Name:		Organic milk cottage cheese 5% 300g
+EAN:		04820178810647
+OldPrice:	730.12
+NewPrice:	51.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820178810647.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820115402331...
+
+Fetched:
+Name:		Buvette Vital Mineral water non-carbonated 0,75l
+EAN:		04820115402331
+OldPrice:	883.01
+NewPrice:	53.40
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820115402331.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 08002200101688...
+
+Fetched:
+Name:		Kimbo Espresso Napoletano whole beans coffee 1kg
+EAN:		08002200101688
+OldPrice:	336.56
+NewPrice:	399.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/08002200101688.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820115401938...
+
+Fetched:
+Name:		Buvette juice drink with aloe vera apricot and figs 0,5l
+EAN:		04820115401938
+OldPrice:	213.44
+NewPrice:	10.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820115401938.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 09786177682249...
+
+Fetched:
+Name:		Brain food Book
+EAN:		09786177682249
+OldPrice:	935.56
+NewPrice:	139.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/09786177682249.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04823065706788...
+
+Fetched:
+Name:		Cottage cheese President Cottage cheese tradition 0,2% 250g
+EAN:		04823065706788
+OldPrice:	86.59
+NewPrice:	40.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04823065706788.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04337182344582...
+
+Fetched:
+Name:		Rioba Costa Rica Coffee Сapsules 5,5gx11pcs
+EAN:		04337182344582
+OldPrice:	699.11
+NewPrice:	89.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04337182344582.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 03179732325136...
+
+Fetched:
+Name:		Vittel non-carbonated water 500ml
+EAN:		03179732325136
+OldPrice:	786.33
+NewPrice:	32.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/03179732325136.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820115401730...
+
+Fetched:
+Name:		Buvette Minions non-carbonated water 500ml
+EAN:		04820115401730
+OldPrice:	826.06
+NewPrice:	9.80
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820115401730.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 08001620002278...
+
+Fetched:
+Name:		Still mineral water San Benedetto 2l
+EAN:		08001620002278
+OldPrice:	373.15
+NewPrice:	38.60
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/08001620002278.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 08714599522035...
+
+Fetched:
+Name:		Carte Noire Classic ground coffee 250g
+EAN:		08714599522035
+OldPrice:	277.19
+NewPrice:	96.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/08714599522035.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04823065716596...
+
+Fetched:
+Name:		Metro Chef sour milk cottage cheese 9% 900g
+EAN:		04823065716596
+OldPrice:	499.87
+NewPrice:	114.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04823065716596.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 08410843102526...
+
+Fetched:
+Name:		Elpozo Fuet Casero raw-cured turkey with white mold sausage 150g
+EAN:		08410843102526
+OldPrice:	51.45
+NewPrice:	79.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/08410843102526.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820202530695...
+
+Fetched:
+Name:		Zlagoda Baby Cottage Cheese 4.5% 90g
+EAN:		04820202530695
+OldPrice:	753.53
+NewPrice:	11.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820202530695.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820044753801...
+
+Fetched:
+Name:		Metro Chef Cottage Cheese 5% 5kg
+EAN:		04820044753801
+OldPrice:	331.58
+NewPrice:	389.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820044753801.txt... 
+Done!
+
+~~~~~
+
+Getting EAN metro28152800000000...
+
+Fetched:
+Name:		Myasnyashki Sausage boiled first grade
+EAN:		metro28152800000000
+OldPrice:	14.71
+NewPrice:	123.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/metro28152800000000.txt... 
+Done!
+
+~~~~~
+
+Getting EAN metro28102600000000...
+
+Fetched:
+Name:		Yatran chilled beef sausage
+EAN:		metro28102600000000
+OldPrice:	496.96
+NewPrice:	93.50
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/metro28102600000000.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820202531876...
+
+Fetched:
+Name:		Zlahoda Dytyachyy Curd dessert Mango-strawberry 13.5% 90g
+EAN:		04820202531876
+OldPrice:	796.93
+NewPrice:	13.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820202531876.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820003487457...
+
+Fetched:
+Name:		Smachno Shef Ultrapasteurized Creamer for Tea and Coffee 10% 500g
+EAN:		04820003487457
+OldPrice:	423.44
+NewPrice:	22.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820003487457.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 08410843116561...
+
+Fetched:
+Name:		Elpozo Chorizo Doux mild raw-cured sausage 200g
+EAN:		08410843116561
+OldPrice:	433.11
+NewPrice:	82.50
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/08410843116561.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 05449000066985...
+
+Fetched:
+Name:		Still water Bon Aqua plastic bottle 1l
+EAN:		05449000066985
+OldPrice:	299.91
+NewPrice:	108.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/05449000066985.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 07613039266113...
+
+Fetched:
+Name:		NESCAFÉ® Classic Black Roast Instant Granular Coffee 55g
+EAN:		07613039266113
+OldPrice:	459.67
+NewPrice:	39.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/07613039266113.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820112650766...
+
+Fetched:
+Name:		Globino Starokyyivsʹka raw smoked sausage 270g
+EAN:		04820112650766
+OldPrice:	749.75
+NewPrice:	63.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820112650766.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04823079002043...
+
+Fetched:
+Name:		Myasna Gildiya President Raw-Smoked Sausage 340g
+EAN:		04823079002043
+OldPrice:	5.45
+NewPrice:	74.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04823079002043.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 08000815485261...
+
+Fetched:
+Name:		Acqua Panna Non-carbonated Mineral Water 1l
+EAN:		08000815485261
+OldPrice:	602.22
+NewPrice:	52.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/08000815485261.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 07613036434492...
+
+Fetched:
+Name:		SVITOCH® Stozhary Coffee flavour and Cognac boxed chocolates 232g
+EAN:		07613036434492
+OldPrice:	127.88
+NewPrice:	109.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/07613036434492.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 08719325224184...
+
+Fetched:
+Name:		Ambassador Blue Label instant coffee 400g
+EAN:		08719325224184
+OldPrice:	192.65
+NewPrice:	168.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/08719325224184.txt... 
+Done!
+
+~~~~~
+
+Getting EAN metro00000040822426...
+
+Fetched:
+Name:		Still natural mineral water Bon Aqua 0,5l
+EAN:		metro00000040822426
+OldPrice:	317.47
+NewPrice:	8.10
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/metro00000040822426.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04823061311580...
+
+Fetched:
+Name:		Agusha Classic For Babies From 6 Months Cottage Cheese 4.5% 100g
+EAN:		04823061311580
+OldPrice:	894.3
+NewPrice:	11.20
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04823061311580.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 07622210707727...
+
+Fetched:
+Name:		Tuc with sausages salt cracker 100g
+EAN:		07622210707727
+OldPrice:	468.36
+NewPrice:	14.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/07622210707727.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 05449000084262...
+
+Fetched:
+Name:		Bon Aqua mineral non-carbonated water 500ml
+EAN:		05449000084262
+OldPrice:	677.65
+NewPrice:	91.80
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/05449000084262.txt... 
+Done!
+
+~~~~~
+
+Getting EAN metro28813900000000...
+
+Fetched:
+Name:		SVITOCH® Lviv Truffle Coffee taste sharing sweets
+EAN:		metro28813900000000
+OldPrice:	433.56
+NewPrice:	134.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/metro28813900000000.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820112651282...
+
+Fetched:
+Name:		Globino Banqueting semi-smoked salami sausage 460g
+EAN:		04820112651282
+OldPrice:	167.11
+NewPrice:	49.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820112651282.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 08001620001301...
+
+Fetched:
+Name:		San Benedetto non-carbonated mineral water 500ml
+EAN:		08001620001301
+OldPrice:	167.15
+NewPrice:	31.25
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/08001620001301.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04823065723198...
+
+Fetched:
+Name:		Metro Chef Cottage cheese 5% 900g
+EAN:		04823065723198
+OldPrice:	178.01
+NewPrice:	106.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04823065723198.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820178810081...
+
+Fetched:
+Name:		Organic milk Organic cottage cheese 9% 300g
+EAN:		04820178810081
+OldPrice:	60.52
+NewPrice:	52.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820178810081.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04823065722757...
+
+Fetched:
+Name:		President Tvorozhna tradytsiya cottage cheese 5% 350g
+EAN:		04823065722757
+OldPrice:	543.63
+NewPrice:	50.50
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04823065722757.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04823022605314...
+
+Fetched:
+Name:		Yuvileyniy Cervelat smoked-boiled sausage 330g
+EAN:		04823022605314
+OldPrice:	248.6
+NewPrice:	89.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04823022605314.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 03048431002658...
+
+Fetched:
+Name:		Vittel Mineral Non-Carbonated Water 1,5l
+EAN:		03048431002658
+OldPrice:	879.1
+NewPrice:	50.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/03048431002658.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 06411300173327...
+
+Fetched:
+Name:		Paulig Guatemala Coffee Natural Fried Ground 500g
+EAN:		06411300173327
+OldPrice:	915.8
+NewPrice:	249.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/06411300173327.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04823065722733...
+
+Fetched:
+Name:		President Tvorozhna tradytsiya cottage cheese 0.2% 350g
+EAN:		04823065722733
+OldPrice:	548.11
+NewPrice:	43.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04823065722733.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04823065721392...
+
+Fetched:
+Name:		Metro Chef sour milk cottage cheese 0% 900g
+EAN:		04823065721392
+OldPrice:	602.8
+NewPrice:	111.00
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04823065721392.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04823065722771...
+
+Fetched:
+Name:		President Tvorozhna tradytsiya cottage cheese 9% 350g
+EAN:		04823065722771
+OldPrice:	846.5
+NewPrice:	54.50
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04823065722771.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04337182344469...
+
+Fetched:
+Name:		Rioba Kenya Coffee Сapsules 5,5gx11pcs
+EAN:		04337182344469
+OldPrice:	237.14
+NewPrice:	89.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04337182344469.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04823065710044...
+
+Fetched:
+Name:		Cottage cheese President Tvorozhna Tradyciya 5% 250g
+EAN:		04823065710044
+OldPrice:	867.94
+NewPrice:	44.60
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04823065710044.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 07613035524835...
+
+Fetched:
+Name:		NESCAFÉ® Gold instant coffee 60g
+EAN:		07613035524835
+OldPrice:	577.02
+NewPrice:	49.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/07613035524835.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 05900512221038...
+
+Fetched:
+Name:		Mlekovita Hanusi cottage cheese
+EAN:		05900512221038
+OldPrice:	754.94
+NewPrice:	49.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/05900512221038.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 05900788201253...
+
+Fetched:
+Name:		Fort ground coffee 250g
+EAN:		05900788201253
+OldPrice:	510.42
+NewPrice:	42.80
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/05900788201253.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820207700666...
+
+Fetched:
+Name:		Lavr Beef Semi-smoked Sausage from Organic Materials 250g
+EAN:		04820207700666
+OldPrice:	272.39
+NewPrice:	69.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820207700666.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 08711000369852...
+
+Fetched:
+Name:		L`or Crema Absolu in grains coffee 500g
+EAN:		08711000369852
+OldPrice:	536.59
+NewPrice:	229.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/08711000369852.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 05099872016689...
+
+Fetched:
+Name:		Baileys Milk Chocolate Coffee Filling 90g
+EAN:		05099872016689
+OldPrice:	380.69
+NewPrice:	84.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/05099872016689.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 05449000005489...
+
+Fetched:
+Name:		Bonaqua Natural Drinking Non-Carbonated Water 1l
+EAN:		05449000005489
+OldPrice:	941.79
+NewPrice:	9.60
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/05449000005489.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04823065721477...
+
+Fetched:
+Name:		President tradition cottage cheese 5% 1kg
+EAN:		04823065721477
+OldPrice:	778.88
+NewPrice:	130.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04823065721477.txt... 
+Done!
+
+~~~~~
+
+Getting EAN metro00000080007951...
+
+Fetched:
+Name:		San Benedetto mineral non-carbonated water 500ml
+EAN:		metro00000080007951
+OldPrice:	651.45
+NewPrice:	18.10
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/metro00000080007951.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 08002200102180...
+
+Fetched:
+Name:		Kimbo Aroma Gold 100% Arabica whole beans coffee 1kg
+EAN:		08002200102180
+OldPrice:	189.05
+NewPrice:	519.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/08002200102180.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 05900512982175...
+
+Fetched:
+Name:		Mlekovita Cheese without lactose sour milk 4% 230g
+EAN:		05900512982175
+OldPrice:	374.39
+NewPrice:	34.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/05900512982175.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820003256701...
+
+Fetched:
+Name:		Galychyna Carpathian Cottage Cheese 5% 300g
+EAN:		04820003256701
+OldPrice:	218.34
+NewPrice:	47.30
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820003256701.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04823079001954...
+
+Fetched:
+Name:		Rancho Na drovakh beef semi-smoked Sausage 400g
+EAN:		04823079001954
+OldPrice:	213.7
+NewPrice:	47.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04823079001954.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 05449000186140...
+
+Fetched:
+Name:		Still water Bon Aqua plastic bottle 1,5l
+EAN:		05449000186140
+OldPrice:	814.14
+NewPrice:	61.80
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/05449000186140.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 07613035585881...
+
+Fetched:
+Name:		NESCAFÉ® Classic instant coffee 60g
+EAN:		07613035585881
+OldPrice:	283.51
+NewPrice:	29.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/07613035585881.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 08714599103883...
+
+Fetched:
+Name:		Jacobs Barista Editions Strong ground coffee 225g
+EAN:		08714599103883
+OldPrice:	759.71
+NewPrice:	69.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/08714599103883.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 05449000200297...
+
+Fetched:
+Name:		BonAqua Still mineral water glass bottle 0,33l
+EAN:		05449000200297
+OldPrice:	964.88
+NewPrice:	147.50
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/05449000200297.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04823036504092...
+
+Fetched:
+Name:		Metro Chef Milanese Smoked Sausage Top Grade 320g
+EAN:		04823036504092
+OldPrice:	562.8
+NewPrice:	96.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04823036504092.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820084980137...
+
+Fetched:
+Name:		Harmash grand-fillet raw cured sausage 320g
+EAN:		04820084980137
+OldPrice:	819.93
+NewPrice:	109.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820084980137.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 06411300170494...
+
+Fetched:
+Name:		Paulig Indonesia Coffee Natural Fried Ground 450g
+EAN:		06411300170494
+OldPrice:	651.47
+NewPrice:	249.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/06411300170494.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04820038494178...
+
+Fetched:
+Name:		Galychyna Cottage Cheese Low-Fat 300g
+EAN:		04820038494178
+OldPrice:	791.15
+NewPrice:	40.20
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04820038494178.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 05449000045478...
+
+Fetched:
+Name:		Bonaqua Natural Drinking Non-Carbonated Water 1,5l
+EAN:		05449000045478
+OldPrice:	14.89
+NewPrice:	10.80
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/05449000045478.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 07613035818644...
+
+Fetched:
+Name:		NESCAFÉ® Classic instant coffee 350g
+EAN:		07613035818644
+OldPrice:	804.35
+NewPrice:	149.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/07613035818644.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04823079001817...
+
+Fetched:
+Name:		Meat Guild Sausage Servelat cooked smoked 450g
+EAN:		04823079001817
+OldPrice:	24.74
+NewPrice:	94.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04823079001817.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04823079002500...
+
+Fetched:
+Name:		Myasna gildiya Bavarsʹka semi-smoked sausage 450g
+EAN:		04823079002500
+OldPrice:	322.86
+NewPrice:	63.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04823079002500.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04770081165542...
+
+Fetched:
+Name:		Biovela Bernu Raw-Cured Sausage 200g
+EAN:		04770081165542
+OldPrice:	172.17
+NewPrice:	133.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04770081165542.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04337182344605...
+
+Fetched:
+Name:		Rioba Ethiopia Coffee Сapsules 5,5gx11pcs
+EAN:		04337182344605
+OldPrice:	809.93
+NewPrice:	89.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04337182344605.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 08001620006788...
+
+Fetched:
+Name:		San Benedetto Mineral water carbonated natural 1l
+EAN:		08001620006788
+OldPrice:	629.99
+NewPrice:	23.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/08001620006788.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 05420066370025...
+
+Fetched:
+Name:		Truffle candies with a taste of coffee 150g
+EAN:		05420066370025
+OldPrice:	654.91
+NewPrice:	99.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/05420066370025.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 05011007020569...
+
+Fetched:
+Name:		Jameson Cold Brew Whiskey & Coffee Spirit Drink 30% 0.7l
+EAN:		05011007020569
+OldPrice:	148.28
+NewPrice:	568.99
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/05011007020569.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 04823065722511...
+
+Fetched:
+Name:		President with sour milk cottage cheese 9% 180g
+EAN:		04823065722511
+OldPrice:	636.42
+NewPrice:	26.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/04823065722511.txt... 
+Done!
+
+~~~~~
+
+Getting EAN 08002200109080...
+
+Fetched:
+Name:		Kimbo Intenso Whole Beans Coffee 1kg
+EAN:		08002200109080
+OldPrice:	306.27
+NewPrice:	389.90
+InStock:	true
+
+Saving to /home/andreysokolov/Rodion_Task_4/outputFolder/products/08002200109080.txt... 
+Done!
+
+~~~~~
+
+Fetching complete!
+Script was running for 65 seconds!
+
+~~~ END ~~~

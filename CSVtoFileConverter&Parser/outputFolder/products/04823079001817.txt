@@ -1,0 +1,5 @@
+Name:		Meat Guild Sausage Servelat cooked smoked 450g
+EAN:		04823079001817
+OldPrice:	24.74
+NewPrice:	94.90
+InStock:	true

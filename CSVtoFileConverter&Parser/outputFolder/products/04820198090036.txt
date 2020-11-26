@@ -1,0 +1,5 @@
+Name:		Premialle Apricot-Honey Cottage Cheese 150g
+EAN:		04820198090036
+OldPrice:	574.35
+NewPrice:	18.20
+InStock:	true

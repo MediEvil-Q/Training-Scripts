@@ -1,0 +1,5 @@
+Name:		President Cottage Cheese 9% 1kg
+EAN:		04823065715261
+OldPrice:	64.43
+NewPrice:	137.90
+InStock:	true

@@ -1,0 +1,5 @@
+Name:		Yatran chilled beef sausage
+EAN:		metro28102600000000
+OldPrice:	496.96
+NewPrice:	93.50
+InStock:	true

@@ -1,0 +1,5 @@
+Name:		Buvette Vital Mineral water non-carbonated 0,75l
+EAN:		04820115402331
+OldPrice:	883.01
+NewPrice:	53.40
+InStock:	true

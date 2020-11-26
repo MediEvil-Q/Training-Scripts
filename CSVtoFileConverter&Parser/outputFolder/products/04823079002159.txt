@@ -1,0 +1,5 @@
+Name:		Rancho raw smoked poultry sausage 340g
+EAN:		04823079002159
+OldPrice:	262.59
+NewPrice:	74.90
+InStock:	true

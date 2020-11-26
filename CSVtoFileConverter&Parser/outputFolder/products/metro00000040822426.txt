@@ -1,0 +1,5 @@
+Name:		Still natural mineral water Bon Aqua 0,5l
+EAN:		metro00000040822426
+OldPrice:	317.47
+NewPrice:	8.10
+InStock:	true

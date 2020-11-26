@@ -1,0 +1,5 @@
+Name:		Galychyna Cottage Cheese Low-Fat 300g
+EAN:		04820038494178
+OldPrice:	791.15
+NewPrice:	40.20
+InStock:	true

@@ -1,0 +1,5 @@
+Name:		Premialle Grainy Cottage Cheese 7% 150g
+EAN:		04820198090043
+OldPrice:	777.31
+NewPrice:	20.90
+InStock:	true

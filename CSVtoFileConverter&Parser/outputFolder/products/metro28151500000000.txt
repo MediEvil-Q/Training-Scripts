@@ -1,0 +1,5 @@
+Name:		Rancho Doctorskaya Sausage first grade
+EAN:		metro28151500000000
+OldPrice:	496.79
+NewPrice:	86.90
+InStock:	true

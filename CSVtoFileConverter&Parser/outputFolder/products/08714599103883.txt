@@ -1,0 +1,5 @@
+Name:		Jacobs Barista Editions Strong ground coffee 225g
+EAN:		08714599103883
+OldPrice:	759.71
+NewPrice:	69.90
+InStock:	true

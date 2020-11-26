@@ -1,0 +1,5 @@
+Name:		Truffle candies with a taste of coffee 150g
+EAN:		05420066370025
+OldPrice:	654.91
+NewPrice:	99.90
+InStock:	true

@@ -1,0 +1,5 @@
+Name:		Agusha Classic For Babies From 6 Months Cottage Cheese 4.5% 100g
+EAN:		04823061311580
+OldPrice:	894.3
+NewPrice:	11.20
+InStock:	true

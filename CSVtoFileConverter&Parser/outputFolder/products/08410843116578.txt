@@ -1,0 +1,5 @@
+Name:		Elpozo Chorizo Pikant raw-cured mold sausage 200g
+EAN:		08410843116578
+OldPrice:	427.31
+NewPrice:	82.50
+InStock:	true

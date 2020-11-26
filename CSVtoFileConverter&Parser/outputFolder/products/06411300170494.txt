@@ -1,0 +1,5 @@
+Name:		Paulig Indonesia Coffee Natural Fried Ground 450g
+EAN:		06411300170494
+OldPrice:	651.47
+NewPrice:	249.90
+InStock:	true

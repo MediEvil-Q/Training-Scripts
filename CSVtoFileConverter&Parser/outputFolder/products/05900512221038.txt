@@ -1,0 +1,5 @@
+Name:		Mlekovita Hanusi cottage cheese
+EAN:		05900512221038
+OldPrice:	754.94
+NewPrice:	49.90
+InStock:	true

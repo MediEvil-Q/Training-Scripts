@@ -1,0 +1,5 @@
+Name:		Jacobs Barista Editions Classic ground coffee 225g
+EAN:		08714599103821
+OldPrice:	924.52
+NewPrice:	79.90
+InStock:	true

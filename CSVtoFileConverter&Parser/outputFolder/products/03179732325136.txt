@@ -1,0 +1,5 @@
+Name:		Vittel non-carbonated water 500ml
+EAN:		03179732325136
+OldPrice:	786.33
+NewPrice:	32.90
+InStock:	true

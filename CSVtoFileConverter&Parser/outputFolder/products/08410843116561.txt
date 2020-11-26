@@ -1,0 +1,5 @@
+Name:		Elpozo Chorizo Doux mild raw-cured sausage 200g
+EAN:		08410843116561
+OldPrice:	433.11
+NewPrice:	82.50
+InStock:	true

@@ -1,0 +1,5 @@
+Name:		Metro Chef Cottage Cheese 5% 5kg
+EAN:		04820044753801
+OldPrice:	331.58
+NewPrice:	389.90
+InStock:	true

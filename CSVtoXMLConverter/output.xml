@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<products>
+  <product id="1">
+    <name>Metro Chef Milanese Smoked Sausage Top Grade 320g</name>
+    <ean>04823036504092</ean>
+    <price>96.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="2">
+    <name>Alan Nevskyi Sausages Boiled 1st Grade</name>
+    <ean>metro28298300000000</ean>
+    <price>184.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="3">
+    <name>Globino Myslyvs&#x2B9;ka boiled-smoked pork sausage 460g</name>
+    <ean>04820112651206</ean>
+    <price>53.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="4">
+    <name>Globino Banqueting semi-smoked salami sausage 460g</name>
+    <ean>04820112651282</ean>
+    <price>49.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="5">
+    <name>Globino Finska semi-smoked pork sausage 460g</name>
+    <ean>04820112651251</ean>
+    <price>49.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="6">
+    <name>Globino Starokyyivs&#x2B9;ka raw smoked sausage 270g</name>
+    <ean>04820112650766</ean>
+    <price>63.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="7">
+    <name>Lavr Yeherski Sausages Semi-smoked from Organic Materials 250g</name>
+    <ean>04820207700604</ean>
+    <price>72.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="8">
+    <name>Lavr Beef Semi-smoked Sausage from Organic Materials 250g</name>
+    <ean>04820207700666</ean>
+    <price>69.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="9">
+    <name>Meat Guild Sausage Servelat cooked smoked 450g</name>
+    <ean>04823079001817</ean>
+    <price>94.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="10">
+    <name>Myasna Gildiya President Raw-Smoked Sausage 340g</name>
+    <ean>04823079002043</ean>
+    <price>74.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="11">
+    <name>Myasna gildiya Bavars&#x2B9;ka semi-smoked sausage 450g</name>
+    <ean>04823079002500</ean>
+    <price>63.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="12">
+    <name>Rancho Doctorskaya Sausage first grade</name>
+    <ean>metro28151500000000</ean>
+    <price>86.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="13">
+    <name>Rancho Na drovakh beef semi-smoked Sausage 400g</name>
+    <ean>04823079001954</ean>
+    <price>47.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="14">
+    <name>Rancho raw smoked poultry sausage 340g</name>
+    <ean>04823079002159</ean>
+    <price>74.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="15">
+    <name>Yuvileyniy Cervelat smoked-boiled sausage 330g</name>
+    <ean>04823022605314</ean>
+    <price>89.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="16">
+    <name>Harmash grand-fillet raw cured sausage 320g</name>
+    <ean>04820084980137</ean>
+    <price>109.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="17">
+    <name>Harmash Moscowska raw smoked sausage 320g</name>
+    <ean>04820084980120</ean>
+    <price>80.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="18">
+    <name>Myasnyashki Sausage boiled first grade</name>
+    <ean>metro28152800000000</ean>
+    <price>123.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="19">
+    <name>Doctorskaya Sausage first grade</name>
+    <ean>metro28152700000000</ean>
+    <price>124.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="20">
+    <name>Tuc with sausages salt cracker 100g</name>
+    <ean>07622210707727</ean>
+    <price>14.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="21">
+    <name>Yatran chilled beef sausage</name>
+    <ean>metro28102600000000</ean>
+    <price>93.50</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="22">
+    <name>Firmova Sausage Boiled</name>
+    <ean>metro28292400000000</ean>
+    <price>180.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="23">
+    <name>Biovela Yuvileyna Sausage Raw Premium 200g</name>
+    <ean>04770081165566</ean>
+    <price>141.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="24">
+    <name>Biovela Bernu Raw-Cured Sausage 200g</name>
+    <ean>04770081165542</ean>
+    <price>133.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="25">
+    <name>Elpozo Fuet Spanish extra raw-cured sausage 170g</name>
+    <ean>08410843003984</ean>
+    <price>99.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="26">
+    <name>Elpozo Chorizo Pikant raw-cured mold sausage 200g</name>
+    <ean>08410843116578</ean>
+    <price>82.50</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="27">
+    <name>Elpozo Chorizo Doux mild raw-cured sausage 200g</name>
+    <ean>08410843116561</ean>
+    <price>82.50</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="28">
+    <name>Elpozo Chorizo Fort extra Pikant raw-cured mold sausage 200g</name>
+    <ean>08410843116585</ean>
+    <price>82.50</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="29">
+    <name>Elpozo Fuet Raw-Cured Sausage 170g</name>
+    <ean>08410843079613</ean>
+    <price>99.90</price>
+    <in_stock>true</in_stock>
+  </product>
+  <product id="30">
+    <name>Elpozo Fuet Casero raw-cured turkey with white mold sausage 150g</name>
+    <ean>08410843102526</ean>
+    <price>79.90</price>
+    <in_stock>true</in_stock>
+  </product>
+</products>

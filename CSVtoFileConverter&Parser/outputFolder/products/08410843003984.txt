@@ -1,0 +1,5 @@
+Name:		Elpozo Fuet Spanish extra raw-cured sausage 170g
+EAN:		08410843003984
+OldPrice:	151.94
+NewPrice:	99.90
+InStock:	true

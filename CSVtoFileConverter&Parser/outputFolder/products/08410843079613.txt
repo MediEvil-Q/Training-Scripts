@@ -1,0 +1,5 @@
+Name:		Elpozo Fuet Raw-Cured Sausage 170g
+EAN:		08410843079613
+OldPrice:	840.67
+NewPrice:	99.90
+InStock:	true

@@ -1,0 +1,5 @@
+Name:		Evian Still natural mineral water 0,5l
+EAN:		03068320055008
+OldPrice:	715.94
+NewPrice:	30.50
+InStock:	true

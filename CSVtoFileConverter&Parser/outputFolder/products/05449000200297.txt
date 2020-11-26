@@ -1,0 +1,5 @@
+Name:		BonAqua Still mineral water glass bottle 0,33l
+EAN:		05449000200297
+OldPrice:	964.88
+NewPrice:	147.50
+InStock:	true

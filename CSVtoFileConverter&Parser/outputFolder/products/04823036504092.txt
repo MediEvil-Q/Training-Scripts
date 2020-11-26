@@ -1,0 +1,5 @@
+Name:		Metro Chef Milanese Smoked Sausage Top Grade 320g
+EAN:		04823036504092
+OldPrice:	562.8
+NewPrice:	96.90
+InStock:	true

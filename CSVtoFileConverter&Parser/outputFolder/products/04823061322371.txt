@@ -1,0 +1,5 @@
+Name:		Agusha Cottage cheese raspberry-black currant-dog rose 3,9% 100g
+EAN:		04823061322371
+OldPrice:	934.66
+NewPrice:	13.90
+InStock:	true

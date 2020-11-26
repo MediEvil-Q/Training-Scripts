@@ -1,0 +1,5 @@
+Name:		President Tvorozhna tradytsiya cottage cheese 0.2% 350g
+EAN:		04823065722733
+OldPrice:	548.11
+NewPrice:	43.90
+InStock:	true

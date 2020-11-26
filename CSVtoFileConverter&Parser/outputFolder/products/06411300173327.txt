@@ -1,0 +1,5 @@
+Name:		Paulig Guatemala Coffee Natural Fried Ground 500g
+EAN:		06411300173327
+OldPrice:	915.8
+NewPrice:	249.90
+InStock:	true

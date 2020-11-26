@@ -1,0 +1,5 @@
+Name:		Yuvileyniy Cervelat smoked-boiled sausage 330g
+EAN:		04823022605314
+OldPrice:	248.6
+NewPrice:	89.90
+InStock:	true

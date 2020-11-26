@@ -1,0 +1,5 @@
+Name:		San Benedetto Mineral water non-carbonated 500ml
+EAN:		08001620003701
+OldPrice:	769.06
+NewPrice:	19.20
+InStock:	true

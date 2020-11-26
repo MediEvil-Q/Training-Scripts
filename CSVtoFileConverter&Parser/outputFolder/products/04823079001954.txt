@@ -1,0 +1,5 @@
+Name:		Rancho Na drovakh beef semi-smoked Sausage 400g
+EAN:		04823079001954
+OldPrice:	213.7
+NewPrice:	47.90
+InStock:	true

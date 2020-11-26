@@ -1,0 +1,5 @@
+Name:		Still natural mineral water Evian 1000ml
+EAN:		03068320080000
+OldPrice:	907.88
+NewPrice:	49.90
+InStock:	true

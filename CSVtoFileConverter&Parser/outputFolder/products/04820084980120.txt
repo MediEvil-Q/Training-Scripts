@@ -1,0 +1,5 @@
+Name:		Harmash Moscowska raw smoked sausage 320g
+EAN:		04820084980120
+OldPrice:	605.1
+NewPrice:	80.90
+InStock:	true

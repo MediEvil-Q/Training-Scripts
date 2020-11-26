@@ -1,0 +1,5 @@
+Name:		Bonaqua Natural Drinking Non-Carbonated Water 1,5l
+EAN:		05449000045478
+OldPrice:	14.89
+NewPrice:	10.80
+InStock:	true

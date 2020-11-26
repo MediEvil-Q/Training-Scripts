@@ -1,0 +1,5 @@
+Name:		SVITOCH® Stozhary Coffee flavour and Cognac boxed chocolates 232g
+EAN:		07613036434492
+OldPrice:	127.88
+NewPrice:	109.90
+InStock:	true

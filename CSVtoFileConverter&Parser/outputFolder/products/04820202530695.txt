@@ -1,0 +1,5 @@
+Name:		Zlagoda Baby Cottage Cheese 4.5% 90g
+EAN:		04820202530695
+OldPrice:	753.53
+NewPrice:	11.90
+InStock:	true

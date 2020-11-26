@@ -1,0 +1,5 @@
+Name:		Elpozo Fuet Casero raw-cured turkey with white mold sausage 150g
+EAN:		08410843102526
+OldPrice:	51.45
+NewPrice:	79.90
+InStock:	true

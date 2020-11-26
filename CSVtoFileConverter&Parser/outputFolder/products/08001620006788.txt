@@ -1,0 +1,5 @@
+Name:		San Benedetto Mineral water carbonated natural 1l
+EAN:		08001620006788
+OldPrice:	629.99
+NewPrice:	23.90
+InStock:	true

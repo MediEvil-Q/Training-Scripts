@@ -1,0 +1,5 @@
+Name:		Buvette juice drink with kiwi and cucumber 0,5l
+EAN:		04820115401976
+OldPrice:	805.12
+NewPrice:	10.90
+InStock:	true

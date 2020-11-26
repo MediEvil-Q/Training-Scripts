@@ -1,0 +1,5 @@
+Name:		Globino Starokyyivsʹka raw smoked sausage 270g
+EAN:		04820112650766
+OldPrice:	749.75
+NewPrice:	63.90
+InStock:	true

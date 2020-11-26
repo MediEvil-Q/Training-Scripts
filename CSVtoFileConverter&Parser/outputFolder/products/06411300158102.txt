@@ -1,0 +1,5 @@
+Name:		Paulig Classic Natural Ground Medium Roasted Coffee 250g
+EAN:		06411300158102
+OldPrice:	631.33
+NewPrice:	89.90
+InStock:	true

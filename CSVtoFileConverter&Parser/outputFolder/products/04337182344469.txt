@@ -1,0 +1,5 @@
+Name:		Rioba Kenya Coffee Сapsules 5,5gx11pcs
+EAN:		04337182344469
+OldPrice:	237.14
+NewPrice:	89.90
+InStock:	true

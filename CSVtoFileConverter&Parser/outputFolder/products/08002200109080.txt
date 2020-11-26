@@ -1,0 +1,5 @@
+Name:		Kimbo Intenso Whole Beans Coffee 1kg
+EAN:		08002200109080
+OldPrice:	306.27
+NewPrice:	389.90
+InStock:	true

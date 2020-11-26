@@ -1,0 +1,5 @@
+Name:		Globino Banqueting semi-smoked salami sausage 460g
+EAN:		04820112651282
+OldPrice:	167.11
+NewPrice:	49.90
+InStock:	true

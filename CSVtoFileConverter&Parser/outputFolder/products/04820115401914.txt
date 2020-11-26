@@ -1,0 +1,5 @@
+Name:		Buvette juice drink with black currant and mint 0,5l
+EAN:		04820115401914
+OldPrice:	781.36
+NewPrice:	11.20
+InStock:	true

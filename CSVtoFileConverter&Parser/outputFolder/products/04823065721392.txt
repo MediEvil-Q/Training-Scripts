@@ -1,0 +1,5 @@
+Name:		Metro Chef sour milk cottage cheese 0% 900g
+EAN:		04823065721392
+OldPrice:	602.8
+NewPrice:	111.00
+InStock:	true

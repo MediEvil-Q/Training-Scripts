@@ -1,0 +1,5 @@
+Name:		Fort ground coffee 250g
+EAN:		05900788201253
+OldPrice:	510.42
+NewPrice:	42.80
+InStock:	true

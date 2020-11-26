@@ -1,0 +1,5 @@
+Name:		Myasna gildiya Bavarsʹka semi-smoked sausage 450g
+EAN:		04823079002500
+OldPrice:	322.86
+NewPrice:	63.90
+InStock:	true

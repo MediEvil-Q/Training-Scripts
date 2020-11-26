@@ -1,0 +1,5 @@
+Name:		Biovela Bernu Raw-Cured Sausage 200g
+EAN:		04770081165542
+OldPrice:	172.17
+NewPrice:	133.90
+InStock:	true

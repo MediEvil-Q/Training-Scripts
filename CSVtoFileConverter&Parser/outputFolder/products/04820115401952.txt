@@ -1,0 +1,5 @@
+Name:		Buvette juice drink with the grapefruit and rosemary 0,5l
+EAN:		04820115401952
+OldPrice:	274.1
+NewPrice:	10.90
+InStock:	true

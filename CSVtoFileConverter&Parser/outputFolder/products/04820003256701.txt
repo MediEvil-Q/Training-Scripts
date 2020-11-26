@@ -1,0 +1,5 @@
+Name:		Galychyna Carpathian Cottage Cheese 5% 300g
+EAN:		04820003256701
+OldPrice:	218.34
+NewPrice:	47.30
+InStock:	true

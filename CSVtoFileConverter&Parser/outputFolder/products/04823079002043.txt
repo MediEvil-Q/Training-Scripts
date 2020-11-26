@@ -1,0 +1,5 @@
+Name:		Myasna Gildiya President Raw-Smoked Sausage 340g
+EAN:		04823079002043
+OldPrice:	5.45
+NewPrice:	74.90
+InStock:	true

@@ -1,0 +1,5 @@
+Name:		Cottage cheese President Tvorozhna Tradyciya 5% 250g
+EAN:		04823065710044
+OldPrice:	867.94
+NewPrice:	44.60
+InStock:	true

@@ -1,0 +1,5 @@
+Name:		Globino Myslyvsʹka boiled-smoked pork sausage 460g
+EAN:		04820112651206
+OldPrice:	651.92
+NewPrice:	53.90
+InStock:	true

@@ -1,0 +1,5 @@
+Name:		Cottage cheese President airy 0% 100g
+EAN:		04823065704708
+OldPrice:	504.52
+NewPrice:	10.30
+InStock:	true

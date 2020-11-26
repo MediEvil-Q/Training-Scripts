@@ -1,0 +1,5 @@
+Name:		Kimbo Aroma Gold 100% Arabica whole beans coffee 1kg
+EAN:		08002200102180
+OldPrice:	189.05
+NewPrice:	519.90
+InStock:	true

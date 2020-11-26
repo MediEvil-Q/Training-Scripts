@@ -1,0 +1,5 @@
+Name:		Still natural mineral water Evian 0,33l
+EAN:		03068320063003
+OldPrice:	687.27
+NewPrice:	24.25
+InStock:	true

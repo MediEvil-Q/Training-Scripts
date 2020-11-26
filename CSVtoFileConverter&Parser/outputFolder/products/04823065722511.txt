@@ -1,0 +1,5 @@
+Name:		President with sour milk cottage cheese 9% 180g
+EAN:		04823065722511
+OldPrice:	636.42
+NewPrice:	26.90
+InStock:	true
