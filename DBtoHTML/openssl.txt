@@ -1,0 +1,142 @@
+CONNECTED(00000003)
+depth=2 O = Digital Signature Trust Co., CN = DST Root CA X3
+verify return:1
+depth=1 C = US, O = Let's Encrypt, CN = R3
+verify return:1
+depth=0 CN = andreys-task.rbeat.gq
+verify return:1
+---
+Certificate chain
+ 0 s:CN = andreys-task.rbeat.gq
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLzCCBBegAwIBAgISA2gP+nGfDD3F8SZHQb9fD+QWMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMDEyMDcxNjAyNDVaFw0yMTAzMDcxNjAyNDVaMCAxHjAcBgNVBAMT
+FWFuZHJleXMtdGFzay5yYmVhdC5ncTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAKEYfpFg7vI9u0RmqEL0t4cyyga6QN2nfUmQH7laAIzLFes8DWY7TZHw
+XCTI+D6wx2oYyLCy3xRKk5FebQWMJAr5SVGTkJ9fPM9RJUF45ZcGps+TvSrDObBG
+yoxntRWw8BWq35+nPz/9YQnzv8DAzlf6A+DMu7W5G/ZYLtmhYE4oL+bOz2mpO9YX
+uEh2RPT8cGYlVLSGhLnItsGWKl/TGZk1PTcDMiQ6uOZFGrLzR8O4P1hHA3yy/2cb
+JdRA66R362EMypspiZn1zt5n9MUjI9DJPCw76X+Ceqy8Iv8WdJJLu4KFLnPNt2HC
+Bmux7QnqQrLVOgp/dVE3+AGu0EP90TsCAwEAAaOCAk8wggJLMA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+ADAdBgNVHQ4EFgQU8IbNu69Mtm/ciCY0r1yAxTYsaPcwHwYDVR0jBBgwFoAUFC6z
+F7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVo
+dHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxl
+bmNyLm9yZy8wIAYDVR0RBBkwF4IVYW5kcmV5cy10YXNrLnJiZWF0LmdxMEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDv
+AHUARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1P9MzlrW2gagAAAF2PifSCQAABAMA
+RjBEAiB3Yfl8dhLPWu0IUy8si9kBiLmNapzb+hM4tfKAK1wMsQIgSkXHBwaXr0tw
+xzPgNgk5XHIiGqshYKDnaRopjkot9r0AdgB9PvL4j/+IVWgkwsDKnlKJeSvFDngJ
+fy5ql2iZfiLw1wAAAXY+J9JJAAAEAwBHMEUCIAXzCsuJAe2Oi2RSn4pglMkvMzx6
+FdELU20D+n8O3mmeAiEAut8zFeZjNiGn7tKPR61Dd44bDkI2tadWiJmBhxNG1Xow
+DQYJKoZIhvcNAQELBQADggEBALjA8IVqP1cGzRjvd5aW47mz59Qj+GTb6vDGDS2u
+l2MZpyyIhC+mWBk3ia83t3hZev9Ty6BZVDNTnY6W8iMGv2GpdPrA5Oqr7/tvfJXx
+qageGf3OFSobD/xasMpKYb+eV3Usx0KR6um+XTWqbOWh20FC8aQVTd8iSG9WkEJQ
+hQBdncqO4vv5fsTMtqzObK/xEP2au2XSC83V2/kW5ckFso5AjofUdAoiNzxkstu5
+3XzZhR2p9ta3pRsbe5EgJSyQrhdy9hH3piXTIMh/y21Y1XzXJZOh9CvJb5zR5mLq
+G6p+MHyFSvVBTLAZDmay7lL2sAlP7rA4k2sMrNAA4xgRvWo=
+-----END CERTIFICATE-----
+subject=CN = andreys-task.rbeat.gq
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3025 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_256_GCM_SHA384
+    Session-ID: C5FC10C581C2597FBA343B0279ABFD6C928886C006DA37ED1E96CB73F127B016
+    Session-ID-ctx:
+    Resumption PSK: AFC978BB2F313FF1867638DEB7A7AAF059C4DE4515312D5471929E306ED976A2E223BC1456B7297BA3D9ACA67E9DF6FC
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - ff 63 0c 5e be 55 80 fc-7a 95 91 42 98 a2 5b 0a   .c.^.U..z..B..[.
+    0010 - 50 c3 24 1e b8 1b 07 81-f9 8d e0 be ec c8 05 6a   P.$............j
+    0020 - f5 ae 57 ae 59 62 68 71-8a ea 5d c5 ef 0c 1b 8a   ..W.Ybhq..].....
+    0030 - 6b ea 75 d7 24 e2 52 88-af 93 fc ae fe 76 3e 05   k.u.$.R......v>.
+    0040 - c4 52 e4 f5 1b fe 9f 1f-76 33 62 15 64 8a 79 83   .R......v3b.d.y.
+    0050 - 1e 9f 86 f2 fd 11 d8 08-d5 e2 07 92 9c bc 4d c7   ..............M.
+    0060 - da a2 0c 6c 03 8b e6 87-2c bf d4 54 20 9f ad bf   ...l....,..T ...
+    0070 - 14 a1 bf 01 f0 65 84 2d-04 e0 ee bb 40 99 fb 0d   .....e.-....@...
+    0080 - 3b 55 62 22 38 10 a1 f8-a7 27 8e bc 7a cd ae 6a   ;Ub"8....'..z..j
+    0090 - 63 98 8c 9b a3 0c 2d 91-17 1a 69 6a cb 9e ff 2a   c.....-...ij...*
+    00a0 - 31 f2 a6 51 65 54 cd d6-bc d1 6c e0 45 d0 78 c9   1..QeT....l.E.x.
+    00b0 - 1c 1d e2 cf 5e ff 42 48-69 20 c0 e7 20 97 81 60   ....^.BHi .. ..`
+    00c0 - 4f 14 1c a9 e6 92 f1 0a-e3 65 61 b7 66 54 a8 c9   O........ea.fT..
+    00d0 - e2 c3 95 18 ca 82 29 ca-07 a6 40 b9 00 16 7b e5   ......)...@...{.
+    00e0 - 3e 84 8e 31 96 50 47 71-e0 92 6d aa 93 6a 3e 2f   >..1.PGq..m..j>/
+    00f0 - 10 5d 92 0a 45 d3 ab 73-f5 f1 dc fc 09 82 a3 d3   .]..E..s........
+
+    Start Time: 1607434132
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_256_GCM_SHA384
+    Session-ID: 9A70397F7542A6FFE72449F523CB3D1A30FFBC46478A4BD6460E7D67A339EA4D
+    Session-ID-ctx:
+    Resumption PSK: 8AFB9F242DBE1C5C9ABA00332257D2699C41335F463DBFBD66E197AB8DF661CEE57FBA74DA270F57845412D2002E798D
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - ff 63 0c 5e be 55 80 fc-7a 95 91 42 98 a2 5b 0a   .c.^.U..z..B..[.
+    0010 - 31 94 b5 0f c7 9b 19 65-e3 99 e8 22 80 f2 41 f7   1......e..."..A.
+    0020 - cd 31 ef e1 50 16 08 70-27 2a 55 8f 9d ca c3 4f   .1..P..p'*U....O
+    0030 - 2c b1 55 f3 5d 1d e5 ae-00 92 44 58 a4 7e 8f 48   ,.U.].....DX.~.H
+    0040 - 07 ee 97 ad 3f 6f d5 42-80 ff 4a 7f 7a b7 dd c2   ....?o.B..J.z...
+    0050 - f7 44 74 72 1c 95 14 75-dc 55 85 d1 51 09 bf 2c   .Dtr...u.U..Q..,
+    0060 - 2b 85 19 1e db 4b f1 cb-80 d0 72 c3 86 65 3d 35   +....K....r..e=5
+    0070 - 83 49 39 59 14 b5 cb 05-1a d7 0d 3d 58 99 d9 7e   .I9Y.......=X..~
+    0080 - 24 70 2c 1a a7 d1 1e f6-90 b6 4a f1 d9 fa 88 d7   $p,.......J.....
+    0090 - 49 bc 06 3f 75 63 ab 00-69 50 ad 19 32 9c 2d ec   I..?uc..iP..2.-.
+    00a0 - cf 40 40 63 82 0c 65 6a-75 85 c0 cd cb 83 2a b5   .@@c..eju.....*.
+    00b0 - 1a 1f d6 59 0f 8b 3b 65-81 fa 13 dd 21 13 4b 00   ...Y..;e....!.K.
+    00c0 - 95 b5 03 da b7 21 f0 0c-ff ab 04 07 69 0c 91 02   .....!......i...
+    00d0 - 53 72 45 25 f9 8e 36 29-be a0 fd d9 5f b1 9e c3   SrE%..6)...._...
+    00e0 - f1 99 e9 a6 0d 2d e3 53-81 ed b5 02 1d b6 47 c7   .....-.S......G.
+    00f0 - af c8 09 ea cb 2e e0 d9-4c e2 b1 2d 7d 36 f2 9f   ........L..-}6..
+
+    Start Time: 1607434132
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK
+closed
