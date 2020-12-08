@@ -120,6 +120,6 @@ done
 
 echo "</table>" >> $DocRoot/index.html
 
-echo -e "<br>(c) 2020 Andrey Sokolov. Last updated: $(date +%c)
+echo -e "<br>(c) 2020 Andrey Sokolov. Last updated: $(date)
 </body>
 </html>" >> $DocRoot/index.html

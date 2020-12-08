@@ -22,4 +22,5 @@
 #
 # m h  dom mon dow   command
 
+* * * * * /usr/bin/bash ~/CSVtoDBplusSORT/PriceUpdate.sh > /dev/null
 * * * * * /usr/bin/bash /etc/apache2/PageGen.sh
